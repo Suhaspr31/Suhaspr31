@@ -6,7 +6,8 @@ Hi 👋, I'm Suhas P R<br>A passionate Software Engineer & Final-year Computer S
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suhas-p-r-6906b0310/) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@suhaspr6585?si=KVeCkXc92pJToflu) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suhasprs331@gmail.com) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-al6druuq6-suhas-p-rs-projects-cdfd1ca4.vercel.app?_vercel_share=L8dVua2b2xPk3OH42v0aKlcLhxmezmb5)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?logo=google-chrome&logoColor=white)](https://portfolio-al6druuq6-suhas-p-rs-projects-cdfd1ca4.vercel.app?_vercel_share=L8dVua2b2xPk3OH42v0aKlcLhxmezmb5)
+
 
 
 # 💻 Tech Stack:
