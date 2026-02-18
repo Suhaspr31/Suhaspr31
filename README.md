@@ -21,7 +21,16 @@ Hi 👋, I'm Suhas P R<br>A passionate Software Engineer & Final-year Computer S
 ![](https://github-profile-trophy.vercel.app/?username=Suhaspr31&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-[![](https://github-contributor-stats.vercel.app/api?username=Suhaspr31&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)](https://github.com/Suhaspr31)
+### 🔝 Top Contributed Repositories
+
+| ⭐ Repository | 🔗 Link |
+|--------------|--------|
+| **Lilac Website Clone** | [View Repo](https://github.com/Suhaspr31/Lilac-Website-Clone) |
+| **Virtual Lab – EEE** | [View Repo](https://github.com/Suhaspr31/Virtual-Lab-EEE) |
+| **Sentiment Watchdog Project** | [View Repo](https://github.com/Suhaspr31/Sentiment-Watchdog-Project) |
+| **AgroUnify – Smart Farming Platform** | [View Repo](https://github.com/Suhaspr31/AgroUnify-Smart-Farming-and-Agricultural-Platform-) |
+| **Suhaspr31 (Profile Repo)** | [View Repo](https://github.com/Suhaspr31) |
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
