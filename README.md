@@ -20,7 +20,7 @@ Hi 👋, I'm Suhas P R<br>A passionate Software Engineer & Final-year Computer S
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Suhaspr31&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
+
 ### 🔝 Top Contributed Repositories
 
 | ⭐ Repository | 🔗 Link |
